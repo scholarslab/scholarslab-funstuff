@@ -1,0 +1,33 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset='utf-8'>
+    <title>{{ page.title }}</title>
+    <link href="http://github.com/stylesheets/bundle_common.css" media="screen" rel="stylesheet" type="text/css" />
+    <link href="http://github.com/stylesheets/bundle_github.css" media="screen" rel="stylesheet" type="text/css" />
+    <link href="/stylesheets/styles.css" media="screen" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+
+  <div id="content" class="site">
+    
+    {{ content }}
+
+    <div class="push"></div>
+  </div>
+
+  <div id="footer">
+    <div class="site">
+      <div class="info">
+        <div class="links">
+          <a href="http://www.scholarslab.org/blog/"><strong>Blog</strong></a> | 
+          <a href="http://www.scholarslab.org/contact"><strong>Contact</strong></a> |
+          <a href="http://twitter.com/scholarslab"><strong>Twitter</strong></a>
+        </div>
+        <div class="company">
+          &copy; {{ site.name | date: "%Y" }} Scholar's Lab
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
