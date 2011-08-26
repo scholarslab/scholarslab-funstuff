@@ -3,4 +3,4 @@ lsi: false
 pygments: true
 
 github: 'scholarslab'
-projects: ['Timeline', 'Neatline', 'NeatlineMaps', 'FedoraConnector', 'NeatlineFeatures', 'TeiDisplay', 'VraCoreElementSet', 'EadImporter', 'SolrSearch', 'BagitPlugin', 'rails31-template', 'neatline-wp-theme', 'cookbooks', 'FalmouthDevEnv', 'OmekaPluginStarterKit', 'BagItPHP', 'Faulkner-Audio-Collection', 'omeka-svn-converter', 'omeka-theme-minify', 'ProxyHost', 'Omeka-Plugin-Template', 'geordf', 'THATCamp2010-Example-Hacks']
+projects: ['Timeline', 'Neatline', 'NeatlineMaps', 'FedoraConnector', 'NeatlineFeatures', 'TeiDisplay', 'VraCoreElementSet', 'EadImporter', 'SolrSearch', 'BagItPlugin', 'rails31-template', 'neatline-wp-theme', 'cookbooks', 'FalmouthDevEnv', 'OmekaPluginStarterKit', 'BagItPHP', 'Faulkner-Audio-Collection', 'omeka-svn-converter', 'omeka-theme-minify', 'ProxyHost', 'Omeka-Plugin-Template', 'geordf', 'THATCamp2010-Example-Hacks']
